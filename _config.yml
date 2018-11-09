@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 忘川
-subtitle: 人生不相见，动如参与商。
-description: 时远的个人博客。FirstLight0521's personal blog.
+title: 时远
+subtitle: 时远（FirstLight0521）的个人博客
+description: 人生不相见，动如参与商。这里是时远（FirstLight0521）的博客。
 keywords: FirstLight0521
 author: FirstLight0521
-language:
+language: zh-cn
 timezone:
-avatar: https://oss.linkmun.com/FirstLight0521/avatars/%E4%BA%BA%E8%AE%BE%E9%80%8F%E6%98%8E%E5%BA%95.png
+avatar: https://oss.linkmun.com/FirstLight0521/avatars/favicon.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
