@@ -3,17 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
+title: 忘川
+subtitle: 人生不相见，动如参与商。
+description: 时远的个人博客。FirstLight0521's personal blog.
+keywords: FirstLight0521
+author: FirstLight0521
 language:
 timezone:
+avatar: https://oss.linkmun.com/FirstLight0521/avatars/%E4%BA%BA%E8%AE%BE%E9%80%8F%E6%98%8E%E5%BA%95.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://firstlight0521.me/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,9 +74,18 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anatole
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+archive_generator:
+  per_page: 5  
+  yearly: false
+  monthly: false
+  daily: false
+
+weibo: 3138659163
+github: FirstLightMK
